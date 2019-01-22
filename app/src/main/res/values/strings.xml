@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">soulApplication</string>
+    <string name="title_home">阿里云</string>
+    <string name="title_control">控制台</string>
+    <string name="title_cloud">云栖</string>
+    <string name="title_self">我的</string>
+</resources>

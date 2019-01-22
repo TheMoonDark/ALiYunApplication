@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home"/>
+
+    <item
+        android:id="@+id/navigation_control"
+        android:icon="@drawable/ic_control"
+        android:title="@string/title_control"/>
+
+    <item
+        android:id="@+id/navigation_cloud"
+        android:icon="@drawable/ic_cloud"
+        android:title="@string/title_cloud"/>
+
+    <item
+        android:id="@+id/navigation_self"
+        android:icon="@drawable/ic_self"
+        android:title="@string/title_self"/>
+
+</menu>
